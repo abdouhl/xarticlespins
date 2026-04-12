@@ -7,9 +7,109 @@
     <link>https://xarticl.es</link>
     <description>Curated articles on entrepreneurship, finance, health &amp; more.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Apr 2026 15:00:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 15:28:12 GMT</lastBuildDate>
     <atom:link href="https://pinterest.xarticl.es/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>Custom Harness: The Agent Harness Is Model-Shaped</title>
+    <link>https://xarticl.es/articles/custom-harness-the-agent-harness-is-model-shaped</link>
+    <description>The same scaffold that doubles one model&apos;s performance actively hurts another. @cursor_ai  proved it. They remove reasoning traces from GPT-5-Codex and performance drops 30%. They remove them from</description>
+    <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/custom-harness-the-agent-harness-is-model-shaped</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/custom-harness-the-agent-harness-is-model-shaped.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/custom-harness-the-agent-harness-is-model-shaped.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/custom-harness-the-agent-harness-is-model-shaped.png"/>
+  </item>
+  <item>
+    <title>Daily AI And Robotics Research &amp; Announcements Digest.</title>
+    <link>https://xarticl.es/articles/daily-ai-and-robotics-research-announcements-digest</link>
+    <description>I am making today&apos;s ReadMultiplex.com  AI and Robotics Member Memorandum public today. There are some interesting events in the last 24 hours.  I wanted to give you an idea of some of the early</description>
+    <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/daily-ai-and-robotics-research-announcements-digest</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/daily-ai-and-robotics-research-announcements-digest.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/daily-ai-and-robotics-research-announcements-digest.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/daily-ai-and-robotics-research-announcements-digest.png"/>
+  </item>
+  <item>
+    <title>Debunking the Remote Labor Index: Why a 2025 Study Fails to Capture AI’s True Potential in 2026</title>
+    <link>https://xarticl.es/articles/debunking-the-remote-labor-index-why-a-2025-study-fails-to-capture-ais-true-potential-in-2026</link>
+    <description>Benchmarks like the Remote Labor Index (RLI) aim to quantify how close we are to AI automating human labor. Released in early 2026 but based on evaluations from mid-to-late 2025, the RLI paper,</description>
+    <pubDate>Sun, 15 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/debunking-the-remote-labor-index-why-a-2025-study-fails-to-capture-ais-true-potential-in-2026</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/debunking-the-remote-labor-index-why-a-2025-study-fails-to-capture-ais-true-potential-in-2026.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/debunking-the-remote-labor-index-why-a-2025-study-fails-to-capture-ais-true-potential-in-2026.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/debunking-the-remote-labor-index-why-a-2025-study-fails-to-capture-ais-true-potential-in-2026.png"/>
+  </item>
+  <item>
+    <title>Does Openclaw actually make money? Here is what I found out.</title>
+    <link>https://xarticl.es/articles/does-openclaw-actually-make-money-here-is-what-i-found-out</link>
+    <description>I’m going to be honest: I was wondering the same thing. Most people are stuck in the &quot;prompt and wait&quot; loop. They think &quot;making money&quot; with AI means asking ChatGPT for a business idea. It’s not. AI</description>
+    <pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/does-openclaw-actually-make-money-here-is-what-i-found-out</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/does-openclaw-actually-make-money-here-is-what-i-found-out.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/does-openclaw-actually-make-money-here-is-what-i-found-out.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/does-openclaw-actually-make-money-here-is-what-i-found-out.png"/>
+  </item>
+  <item>
+    <title>Don&apos;t trust AI agents</title>
+    <link>https://xarticl.es/articles/dont-trust-ai-agents</link>
+    <description>When you&apos;re building with AI agents, they should be treated as untrusted and potentially malicious. Whether it&apos;s prompt injection, a model trying to escape its sandbox, or something nobody&apos;s thought</description>
+    <pubDate>Sun, 12 Apr 2026 15:28:12 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/dont-trust-ai-agents</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/dont-trust-ai-agents.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/dont-trust-ai-agents.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/dont-trust-ai-agents.png"/>
+  </item>
+  <item>
+    <title>Eventually, the future comes</title>
+    <link>https://xarticl.es/articles/eventually-the-future-comes</link>
+    <description>Today, we are releasing one of the biggest updates to Devin since launch. The vision of Devin in 2024 was to give everyone an AI software engineer that could build features, fix bugs, test its own</description>
+    <pubDate>Sun, 12 Apr 2026 15:28:12 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/eventually-the-future-comes</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/eventually-the-future-comes.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/eventually-the-future-comes.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/eventually-the-future-comes.png"/>
+  </item>
+  <item>
+    <title>Everyone using AI has about 12 months to develop these 3 moats</title>
+    <link>https://xarticl.es/articles/everyone-using-ai-has-about-12-months-to-develop-these-3-moats</link>
+    <description>Right now 90% of people using AI are doing the same thing: prompting, accepting, shipping. no judgment, no taste. that means if you develop even one of these three moats, you stand out immediately.</description>
+    <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/everyone-using-ai-has-about-12-months-to-develop-these-3-moats</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/everyone-using-ai-has-about-12-months-to-develop-these-3-moats.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/everyone-using-ai-has-about-12-months-to-develop-these-3-moats.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/everyone-using-ai-has-about-12-months-to-develop-these-3-moats.png"/>
+  </item>
+  <item>
+    <title>Everyone&apos;s Missing the Point of WebMCP</title>
+    <link>https://xarticl.es/articles/everyones-missing-the-point-of-webmcp</link>
+    <description>AI assistants are getting better at helping people inside the browser, but they still need too much babysitting. They click the wrong thing. They lose the thread. They can do impressive work, but only</description>
+    <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/everyones-missing-the-point-of-webmcp</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/everyones-missing-the-point-of-webmcp.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/everyones-missing-the-point-of-webmcp.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/everyones-missing-the-point-of-webmcp.png"/>
+  </item>
+  <item>
+    <title>F*ck The Hype - Why You Shouldn&apos;t Use OpenClaw</title>
+    <link>https://xarticl.es/articles/fck-the-hype-why-you-shouldnt-use-openclaw</link>
+    <description>Ok. I know the title of this article is ironic, coming from someone who has built a large chunk of their AI workflows around OpenClaw. I&apos;ve posted about it every single week. I literally have a</description>
+    <pubDate>Sun, 12 Apr 2026 15:28:12 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/fck-the-hype-why-you-shouldnt-use-openclaw</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/fck-the-hype-why-you-shouldnt-use-openclaw.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/fck-the-hype-why-you-shouldnt-use-openclaw.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/fck-the-hype-why-you-shouldnt-use-openclaw.png"/>
+  </item>
+  <item>
+    <title>Gemini Embedding 2: Our first natively multimodal embedding model</title>
+    <link>https://xarticl.es/articles/gemini-embedding-2-our-first-natively-multimodal-embedding-model</link>
+    <description>Gemini Embedding 2 is our first natively multimodal embedding model that maps text, images, video, audio and documents into a single embedding space, enabling multimodal retrieval and classification</description>
+    <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/gemini-embedding-2-our-first-natively-multimodal-embedding-model</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/gemini-embedding-2-our-first-natively-multimodal-embedding-model.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/gemini-embedding-2-our-first-natively-multimodal-embedding-model.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/gemini-embedding-2-our-first-natively-multimodal-embedding-model.png"/>
+  </item>
+<item>
     <title>ClawdBot — My 24/7 AI Trading Assistant</title>
     <link>https://xarticl.es/articles/clawdbot-my-247-ai-trading-assistant</link>
     <description>The Trading Setup Nobody&apos;s Talking About   I&apos;m buying a Mac Mini to run an AI trading assistant 24/7. Not a chatbot. Not another AI tool you forget about. A fulltime AI employee that controls a</description>
