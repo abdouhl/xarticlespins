@@ -7,9 +7,109 @@
     <link>https://xarticl.es</link>
     <description>Curated articles on entrepreneurship, finance, health &amp; more.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Apr 2026 17:45:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 18:44:34 GMT</lastBuildDate>
     <atom:link href="https://pinterest.xarticl.es/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>How to deploy autoresearch:</title>
+    <link>https://xarticl.es/articles/how-to-deploy-autoresearch</link>
+    <description>You want to deploy Andrew Karpathy’s autoresearch that lets you have agents run research experiments whilst you sleep with any prompt but you don’t know how, read this. So, here’s the thing, Karpathy</description>
+    <pubDate>Sun, 08 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/how-to-deploy-autoresearch</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/how-to-deploy-autoresearch.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/how-to-deploy-autoresearch.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/how-to-deploy-autoresearch.png"/>
+  </item>
+  <item>
+    <title>How to design Experiments to Evaluate your Agentic Harness</title>
+    <link>https://xarticl.es/articles/how-to-design-experiments-to-evaluate-your-agentic-harness</link>
+    <description>Our forefathers and foremothers laid down the script for improving any system: (1) Build, (2) Evaluate, (3) Refine. Step 1 is trivial now thanks to coding agents. Step 3 is also simple too once you</description>
+    <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/how-to-design-experiments-to-evaluate-your-agentic-harness</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/how-to-design-experiments-to-evaluate-your-agentic-harness.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/how-to-design-experiments-to-evaluate-your-agentic-harness.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/how-to-design-experiments-to-evaluate-your-agentic-harness.png"/>
+  </item>
+  <item>
+    <title>How to Fine-Tune LLMs in 2026 </title>
+    <link>https://xarticl.es/articles/how-to-fine-tune-llms-in-2026</link>
+    <description>Every team building with LLMs hits the same wall eventually. You write a detailed system prompt, add few-shot examples, tune the temperature, and your agent still gets it wrong 30-40% of the time. The</description>
+    <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/how-to-fine-tune-llms-in-2026</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/how-to-fine-tune-llms-in-2026.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/how-to-fine-tune-llms-in-2026.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/how-to-fine-tune-llms-in-2026.png"/>
+  </item>
+  <item>
+    <title>How to Fix Your Entire Life with AI in 1 Day</title>
+    <link>https://xarticl.es/articles/how-to-fix-your-entire-life-with-ai-in-1-day</link>
+    <description>If you&apos;re anything like me, you&apos;ve wasted hundreds of hours asking ChatGPT useless questions. &quot;Write me a business plan.&quot;  &quot;Give me motivation.&quot;  &quot;Help me be more productive.&quot; And you got back...</description>
+    <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/how-to-fix-your-entire-life-with-ai-in-1-day</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/how-to-fix-your-entire-life-with-ai-in-1-day.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/how-to-fix-your-entire-life-with-ai-in-1-day.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/how-to-fix-your-entire-life-with-ai-in-1-day.png"/>
+  </item>
+  <item>
+    <title>How to Learn Prompt Engineering (Advanced Techniques)</title>
+    <link>https://xarticl.es/articles/how-to-learn-prompt-engineering-advanced-techniques</link>
+    <description>Most people are still asking ChatGPT basic questions and getting basic answers. Meanwhile, 1% of prompts are structured so precisely that AI outputs read like they were written by a $500/hour expert.</description>
+    <pubDate>Sun, 18 Jan 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/how-to-learn-prompt-engineering-advanced-techniques</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/how-to-learn-prompt-engineering-advanced-techniques.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/how-to-learn-prompt-engineering-advanced-techniques.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/how-to-learn-prompt-engineering-advanced-techniques.png"/>
+  </item>
+  <item>
+    <title>How to make money from ai slop</title>
+    <link>https://xarticl.es/articles/how-to-make-money-from-ai-slop</link>
+    <description>youtube money is simple you upload videos you made with AI, you get views, youtube pays you based on those views and while that&apos;s technically true, it&apos;s missing about 90% of how the money actually</description>
+    <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/how-to-make-money-from-ai-slop</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/how-to-make-money-from-ai-slop.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/how-to-make-money-from-ai-slop.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/how-to-make-money-from-ai-slop.png"/>
+  </item>
+  <item>
+    <title>How to Make Money with OpenClaw: The Complete Guide</title>
+    <link>https://xarticl.es/articles/how-to-make-money-with-openclaw-the-complete-guide</link>
+    <description>The open-source AI agent that runs 24/7 is creating real income streams. Here&apos;s every strategy that&apos;s actually working. OpenClaw is not a chatbot. It&apos;s an open-source AI agent that runs continuously</description>
+    <pubDate>Sun, 08 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/how-to-make-money-with-openclaw-the-complete-guide</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/how-to-make-money-with-openclaw-the-complete-guide.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/how-to-make-money-with-openclaw-the-complete-guide.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/how-to-make-money-with-openclaw-the-complete-guide.png"/>
+  </item>
+  <item>
+    <title>How to Make Your OpenClaw Agent 10x More Powerful</title>
+    <link>https://xarticl.es/articles/how-to-make-your-openclaw-agent-10x-more-powerful</link>
+    <description>Most people treat OpenClaw like ChatGPT. Ask questions. Get answers. Close it. They&apos;re leaving 90% of the power on the table. I&apos;ve been running a 6-agent autonomous system inside OpenClaw for weeks.</description>
+    <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/how-to-make-your-openclaw-agent-10x-more-powerful</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/how-to-make-your-openclaw-agent-10x-more-powerful.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/how-to-make-your-openclaw-agent-10x-more-powerful.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/how-to-make-your-openclaw-agent-10x-more-powerful.png"/>
+  </item>
+  <item>
+    <title>how to master AI content (step by step playbook)</title>
+    <link>https://xarticl.es/articles/how-to-master-ai-content-step-by-step-playbook</link>
+    <description>i&apos;ve been producing AI-generated content for over a year now - UGC ads, video creatives, social campaigns, sales pages, full brand rollouts and the one thing i can tell you with certainty is that most</description>
+    <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/how-to-master-ai-content-step-by-step-playbook</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/how-to-master-ai-content-step-by-step-playbook.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/how-to-master-ai-content-step-by-step-playbook.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/how-to-master-ai-content-step-by-step-playbook.png"/>
+  </item>
+  <item>
+    <title>how to print $1,000,000 in 2026 with AI UGC QUIZ FUNNELS (you heard it here first)</title>
+    <link>https://xarticl.es/articles/how-to-print-1000000-in-2026-with-ai-ugc-quiz-funnels-you-heard-it-here-first</link>
+    <description>there&apos;s a reason why most AI UGC operations plateau at a level of revenue that should be significantly higher given the content volume and organic reach they are generating, and it&apos;s almost entirely</description>
+    <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/how-to-print-1000000-in-2026-with-ai-ugc-quiz-funnels-you-heard-it-here-first</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/how-to-print-1000000-in-2026-with-ai-ugc-quiz-funnels-you-heard-it-here-first.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/how-to-print-1000000-in-2026-with-ai-ugc-quiz-funnels-you-heard-it-here-first.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/how-to-print-1000000-in-2026-with-ai-ugc-quiz-funnels-you-heard-it-here-first.png"/>
+  </item>
+<item>
     <title>How to build a simple AI agent in 46 lines of Python code</title>
     <link>https://xarticl.es/articles/how-to-build-a-simple-ai-agent-in-46-lines-of-python-code</link>
     <description>I think there&apos;s a lot of confusing stuff out there when it comes to AI agents, and as always, a ton of technical terms now being used as sales and marketing buzzwords to make people sounds, errrr,</description>
