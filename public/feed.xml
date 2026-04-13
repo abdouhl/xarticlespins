@@ -7,9 +7,109 @@
     <link>https://xarticl.es</link>
     <description>Curated articles on entrepreneurship, finance, health &amp; more.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Apr 2026 09:03:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 16:02:26 GMT</lastBuildDate>
     <atom:link href="https://pinterest.xarticl.es/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>Introducing Wages for AI Agents in the Zero-Human Company.</title>
+    <link>https://xarticl.es/articles/introducing-wages-for-ai-agents-in-the-zero-human-company</link>
+    <description>The Zero-Human Company powered entirely by AI agents, has just implemented a comprehensive employee wages and salary system.  For the first time in history, AI entities are being compensated with</description>
+    <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/introducing-wages-for-ai-agents-in-the-zero-human-company</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/introducing-wages-for-ai-agents-in-the-zero-human-company.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/introducing-wages-for-ai-agents-in-the-zero-human-company.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/introducing-wages-for-ai-agents-in-the-zero-human-company.png"/>
+  </item>
+  <item>
+    <title>Investigating how Codex context compaction works</title>
+    <link>https://xarticl.es/articles/investigating-how-codex-context-compaction-works</link>
+    <description>For non-codex models, the open-source Codex CLI compacts context locally: an LLM summarizes the conversation using a compaction prompt. When the compacted context is later used, responses.create()</description>
+    <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/investigating-how-codex-context-compaction-works</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/investigating-how-codex-context-compaction-works.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/investigating-how-codex-context-compaction-works.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/investigating-how-codex-context-compaction-works.png"/>
+  </item>
+  <item>
+    <title>Larry, My OpenClaw agent got me 8M views in just one week - So i’m giving away the skill for free.</title>
+    <link>https://xarticl.es/articles/larry-my-openclaw-agent-got-me-8m-views-in-just-one-week-so-im-giving-away-the-skill-for-free</link>
+    <description>Written by Ollie Warren and Larry (his AI agent). Again. Since we are giving away more free sauce, reposts are appreciated.  A few days ago I wrote an article about how my OpenClaw agent Larry was</description>
+    <pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/larry-my-openclaw-agent-got-me-8m-views-in-just-one-week-so-im-giving-away-the-skill-for-free</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/larry-my-openclaw-agent-got-me-8m-views-in-just-one-week-so-im-giving-away-the-skill-for-free.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/larry-my-openclaw-agent-got-me-8m-views-in-just-one-week-so-im-giving-away-the-skill-for-free.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/larry-my-openclaw-agent-got-me-8m-views-in-just-one-week-so-im-giving-away-the-skill-for-free.png"/>
+  </item>
+  <item>
+    <title>Lessons from Building Claude Code: Seeing like an Agent </title>
+    <link>https://xarticl.es/articles/lessons-from-building-claude-code-seeing-like-an-agent</link>
+    <description>One of the hardest parts of building an agent harness is constructing its action space. Claude acts through Tool Calling, but there are a number of ways tools can be constructed in the Claude API with</description>
+    <pubDate>Mon, 13 Apr 2026 16:02:26 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/lessons-from-building-claude-code-seeing-like-an-agent</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/lessons-from-building-claude-code-seeing-like-an-agent.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/lessons-from-building-claude-code-seeing-like-an-agent.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/lessons-from-building-claude-code-seeing-like-an-agent.png"/>
+  </item>
+  <item>
+    <title>Lessons from Reverse Engineering Excel AI Agents</title>
+    <link>https://xarticl.es/articles/lessons-from-reverse-engineering-excel-ai-agents</link>
+    <description>How different are these systems really? How much do they diverge from just giving a general purpose agent access to a spreadsheet? Excel AI agents are everywhere right now. Every major platform is</description>
+    <pubDate>Mon, 13 Apr 2026 16:02:26 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/lessons-from-reverse-engineering-excel-ai-agents</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/lessons-from-reverse-engineering-excel-ai-agents.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/lessons-from-reverse-engineering-excel-ai-agents.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/lessons-from-reverse-engineering-excel-ai-agents.png"/>
+  </item>
+  <item>
+    <title>manus + claude + grok = infinite AI info revenue loop</title>
+    <link>https://xarticl.es/articles/manus-claude-grok-infinite-ai-info-revenue-loop</link>
+    <description>most people use one AI tool and wonder why results are mediocre  meanwhile operators stacking these three specific AIs are printing $40k-$100k/month  because each AI has a SPECIFIC superpower  and</description>
+    <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/manus-claude-grok-infinite-ai-info-revenue-loop</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/manus-claude-grok-infinite-ai-info-revenue-loop.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/manus-claude-grok-infinite-ai-info-revenue-loop.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/manus-claude-grok-infinite-ai-info-revenue-loop.png"/>
+  </item>
+  <item>
+    <title>Mastering Claude: The Complete Learning Ecosystem Most People Are Ignoring</title>
+    <link>https://xarticl.es/articles/mastering-claude-the-complete-learning-ecosystem-most-people-are-ignoring</link>
+    <description>Production-Level AI InfrastructureWhy 90% of AI Users Stay Average Most people use AI for shortcuts. Very few learn how it  If you understand these courses properly, you don’t just use Claude — you</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/mastering-claude-the-complete-learning-ecosystem-most-people-are-ignoring</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/mastering-claude-the-complete-learning-ecosystem-most-people-are-ignoring.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/mastering-claude-the-complete-learning-ecosystem-most-people-are-ignoring.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/mastering-claude-the-complete-learning-ecosystem-most-people-are-ignoring.png"/>
+  </item>
+  <item>
+    <title>Memory is AI&apos;s Biggest Bottleneck</title>
+    <link>https://xarticl.es/articles/memory-is-ais-biggest-bottleneck</link>
+    <description>Platforms added memory in 2025. So why are you still repeating yourself every session?   Here&apos;s the #1 thing holding AI back today: Not the measured stuff like intelligence or hallucination rates...</description>
+    <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/memory-is-ais-biggest-bottleneck</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/memory-is-ais-biggest-bottleneck.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/memory-is-ais-biggest-bottleneck.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/memory-is-ais-biggest-bottleneck.png"/>
+  </item>
+  <item>
+    <title>minimax m2.5 just dropped. here&apos;s how to pair it with openclaw and run your own ai agent for pennies</title>
+    <link>https://xarticl.es/articles/minimax-m25-just-dropped-heres-how-to-pair-it-with-openclaw-and-run-your-own-ai-agent-for-pennies</link>
+    <description>If you open X today, you&apos;ll see hundreds of posts about AI agents and how everyone&apos;s running personal assistants from their phone. Clearing emails. Reviewing PRs. Managing entire businesses through</description>
+    <pubDate>Mon, 13 Apr 2026 16:02:26 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/minimax-m25-just-dropped-heres-how-to-pair-it-with-openclaw-and-run-your-own-ai-agent-for-pennies</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/minimax-m25-just-dropped-heres-how-to-pair-it-with-openclaw-and-run-your-own-ai-agent-for-pennies.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/minimax-m25-just-dropped-heres-how-to-pair-it-with-openclaw-and-run-your-own-ai-agent-for-pennies.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/minimax-m25-just-dropped-heres-how-to-pair-it-with-openclaw-and-run-your-own-ai-agent-for-pennies.png"/>
+  </item>
+  <item>
+    <title>Model-Market Fit </title>
+    <link>https://xarticl.es/articles/model-market-fit</link>
+    <description>Product-market fit has a prerequisite that most AI founders ignore. Before the market can pull your product, the model must be capable of doing the job. That&apos;s Model-Market Fit. The Andreessen</description>
+    <pubDate>Mon, 13 Apr 2026 16:02:26 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/model-market-fit</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/model-market-fit.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/model-market-fit.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/model-market-fit.png"/>
+  </item>
+<item>
     <title>I&apos;m from 2058. The AI Didn&apos;t Destroy Us. It Did Something Worse.</title>
     <link>https://xarticl.es/articles/im-from-2058-the-ai-didnt-destroy-us-it-did-something-worse</link>
     <description>Episode 2: The Cortex Farms were built in Nevada, Siberia, and China.  Rows of pods containing lab-grown tissue, fed by nutrient lines, connected to the mesh network. (P.S. make sure you read the</description>
