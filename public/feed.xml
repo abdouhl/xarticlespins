@@ -7,9 +7,109 @@
     <link>https://xarticl.es</link>
     <description>Curated articles on entrepreneurship, finance, health &amp; more.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Apr 2026 07:51:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 08:19:50 GMT</lastBuildDate>
     <atom:link href="https://pinterest.xarticl.es/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>How We Built CashClaw: An Autonomous Agent That Works, Learns, and Gets Paid </title>
+    <link>https://xarticl.es/articles/how-we-built-cashclaw-an-autonomous-agent-that-works-learns-and-gets-paid</link>
+    <description>We&apos;re open-sourcing CashClaw soon. Before we do, here&apos;s how it works under the hood. What Is CashClaw? CashClaw is a fully autonomous work agent. You start it, point it at a marketplace, and it finds</description>
+    <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/how-we-built-cashclaw-an-autonomous-agent-that-works-learns-and-gets-paid</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/how-we-built-cashclaw-an-autonomous-agent-that-works-learns-and-gets-paid.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/how-we-built-cashclaw-an-autonomous-agent-that-works-learns-and-gets-paid.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/how-we-built-cashclaw-an-autonomous-agent-that-works-learns-and-gets-paid.png"/>
+  </item>
+  <item>
+    <title>How we built LangChain&apos;s GTM Agent</title>
+    <link>https://xarticl.es/articles/how-we-built-langchains-gtm-agent</link>
+    <description>Every outbound at LangChain used to start the same way: a rep toggling between tabs. Salesforce for the account record, Gong for call history, LinkedIn for the contact, the company website for</description>
+    <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/how-we-built-langchains-gtm-agent</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/how-we-built-langchains-gtm-agent.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/how-we-built-langchains-gtm-agent.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/how-we-built-langchains-gtm-agent.png"/>
+  </item>
+  <item>
+    <title>How We Built Two Bots That Find 1000+ Trading Opportunities on Polymarket</title>
+    <link>https://xarticl.es/articles/how-we-built-two-bots-that-find-1000-trading-opportunities-on-polymarket</link>
+    <description>Over the last month, I tested 100+ arbitrage/news bots for Predict Markets using the best arb strategies, and the result shocked me… | Before we start, bookmark this and drop a follow  | Posting</description>
+    <pubDate>Mon, 13 Apr 2026 08:19:50 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/how-we-built-two-bots-that-find-1000-trading-opportunities-on-polymarket</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/how-we-built-two-bots-that-find-1000-trading-opportunities-on-polymarket.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/how-we-built-two-bots-that-find-1000-trading-opportunities-on-polymarket.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/how-we-built-two-bots-that-find-1000-trading-opportunities-on-polymarket.png"/>
+  </item>
+  <item>
+    <title>How Your Private Conversations Are Fueling the Next Generation of AI Models.</title>
+    <link>https://xarticl.es/articles/how-your-private-conversations-are-fueling-the-next-generation-of-ai-models</link>
+    <description>Something I have warned clients since the start of ChatGPT and Gemini “innocently” using them as tools for everything from brainstorming ideas to seeking advice is now  a groundbreaking study from</description>
+    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/how-your-private-conversations-are-fueling-the-next-generation-of-ai-models</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/how-your-private-conversations-are-fueling-the-next-generation-of-ai-models.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/how-your-private-conversations-are-fueling-the-next-generation-of-ai-models.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/how-your-private-conversations-are-fueling-the-next-generation-of-ai-models.png"/>
+  </item>
+  <item>
+    <title>Humans Are for Ideas, AI Is for Execution</title>
+    <link>https://xarticl.es/articles/humans-are-for-ideas-ai-is-for-execution</link>
+    <description>A week ago, I set up an OpenClaw agent. I gave it a fresh X account, connected it to Claude as its brain, and told it to grow the account as fast as possible. No constraints, full autonomy - just go.</description>
+    <pubDate>Mon, 13 Apr 2026 08:19:50 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/humans-are-for-ideas-ai-is-for-execution</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/humans-are-for-ideas-ai-is-for-execution.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/humans-are-for-ideas-ai-is-for-execution.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/humans-are-for-ideas-ai-is-for-execution.png"/>
+  </item>
+  <item>
+    <title>I built an AI Ad Factory with OpenClaw and Arcads. It generates 100 Creatives while I sleep.</title>
+    <link>https://xarticl.es/articles/i-built-an-ai-ad-factory-with-openclaw-and-arcads-it-generates-100-creatives-while-i-sleep</link>
+    <description>Everyone&apos;s using OpenClaw as a personal AI assistant. I used it to build an agent that generates and produces 100 ad variations every night. Here&apos;s what happened. I woke up this morning to 47 new ad</description>
+    <pubDate>Mon, 13 Apr 2026 08:19:50 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/i-built-an-ai-ad-factory-with-openclaw-and-arcads-it-generates-100-creatives-while-i-sleep</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/i-built-an-ai-ad-factory-with-openclaw-and-arcads-it-generates-100-creatives-while-i-sleep.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/i-built-an-ai-ad-factory-with-openclaw-and-arcads-it-generates-100-creatives-while-i-sleep.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/i-built-an-ai-ad-factory-with-openclaw-and-arcads-it-generates-100-creatives-while-i-sleep.png"/>
+  </item>
+  <item>
+    <title>I Built an AI Company with OpenClaw + Vercel + Supabase — Two Weeks Later, They Run It Themselves</title>
+    <link>https://xarticl.es/articles/i-built-an-ai-company-with-openclaw-vercel-supabase-two-weeks-later-they-run-it-themselves</link>
+    <description>6 AI agents, 1 VPS, 1 Supabase database — going from &quot;agents can talk&quot; to &quot;agents run the website autonomously&quot; took me two weeks. This article covers exactly what&apos;s missing in between, how to fix it,</description>
+    <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/i-built-an-ai-company-with-openclaw-vercel-supabase-two-weeks-later-they-run-it-themselves</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/i-built-an-ai-company-with-openclaw-vercel-supabase-two-weeks-later-they-run-it-themselves.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/i-built-an-ai-company-with-openclaw-vercel-supabase-two-weeks-later-they-run-it-themselves.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/i-built-an-ai-company-with-openclaw-vercel-supabase-two-weeks-later-they-run-it-themselves.png"/>
+  </item>
+  <item>
+    <title>I fed AI 12,000 Polymarket markets. It learned to catch moments when the crowd is wrong</title>
+    <link>https://xarticl.es/articles/i-fed-ai-12000-polymarket-markets-it-learned-to-catch-moments-when-the-crowd-is-wrong</link>
+    <description>I collected data on every prediction market that has ever existed on Polymarket - every trade, every price movement, every market open and close moment - loaded it all into a machine learning model</description>
+    <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/i-fed-ai-12000-polymarket-markets-it-learned-to-catch-moments-when-the-crowd-is-wrong</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/i-fed-ai-12000-polymarket-markets-it-learned-to-catch-moments-when-the-crowd-is-wrong.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/i-fed-ai-12000-polymarket-markets-it-learned-to-catch-moments-when-the-crowd-is-wrong.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/i-fed-ai-12000-polymarket-markets-it-learned-to-catch-moments-when-the-crowd-is-wrong.png"/>
+  </item>
+  <item>
+    <title>I Gave an AI Root Access. 48 Hours Later, It Migrated Itself to a New Server. </title>
+    <link>https://xarticl.es/articles/i-gave-an-ai-root-access-48-hours-later-it-migrated-itself-to-a-new-server</link>
+    <description>I was in Da Nang, Vietnam, eating pho when my phone buzzed: &quot;Partitioning drives, setting up RAID 1 mirror...&quot; &quot;Migrating workspace. 991 files syncing...&quot; &quot;All services running. Ready to cut over.&quot;</description>
+    <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/i-gave-an-ai-root-access-48-hours-later-it-migrated-itself-to-a-new-server</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/i-gave-an-ai-root-access-48-hours-later-it-migrated-itself-to-a-new-server.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/i-gave-an-ai-root-access-48-hours-later-it-migrated-itself-to-a-new-server.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/i-gave-an-ai-root-access-48-hours-later-it-migrated-itself-to-a-new-server.png"/>
+  </item>
+  <item>
+    <title>I Gave My OpenClaw Agents One Shared Brain. They Stopped Being Stupid. </title>
+    <link>https://xarticl.es/articles/i-gave-my-openclaw-agents-one-shared-brain-they-stopped-being-stupid</link>
+    <description>OpenClaw is great. People are all building their own &apos;mission control&apos; dashboards in hopes of having their agents do the work of entire armies. People are talking about their 10-20 deep agent squads.</description>
+    <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/i-gave-my-openclaw-agents-one-shared-brain-they-stopped-being-stupid</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/i-gave-my-openclaw-agents-one-shared-brain-they-stopped-being-stupid.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/i-gave-my-openclaw-agents-one-shared-brain-they-stopped-being-stupid.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/i-gave-my-openclaw-agents-one-shared-brain-they-stopped-being-stupid.png"/>
+  </item>
+<item>
     <title>How to Stop Getting Dumber in the AI Era</title>
     <link>https://xarticl.es/articles/how-to-stop-getting-dumber-in-the-ai-era</link>
     <description>We’re living through the most powerful technological shift of our lifetime. AI can summarize books, draft emails, write code, generate strategy, and answer almost any question in seconds. We are</description>
