@@ -7,9 +7,109 @@
     <link>https://xarticl.es</link>
     <description>Curated articles on entrepreneurship, finance, health &amp; more.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Apr 2026 08:19:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 08:46:45 GMT</lastBuildDate>
     <atom:link href="https://pinterest.xarticl.es/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>I Need To Say Something About AI...</title>
+    <link>https://xarticl.es/articles/i-need-to-say-something-about-ai</link>
+    <description>Disclaimer: This won&apos;t be popular, but it is very important. Over the last few weeks, it seems like I can&apos;t go ten minutes without having a new &quot;AI Doom&quot; story hit my feed. First, it was an X article</description>
+    <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/i-need-to-say-something-about-ai</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/i-need-to-say-something-about-ai.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/i-need-to-say-something-about-ai.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/i-need-to-say-something-about-ai.png"/>
+  </item>
+  <item>
+    <title>I ran 21 AI scans on a smart contract</title>
+    <link>https://xarticl.es/articles/i-ran-21-ai-scans-on-a-smart-contract</link>
+    <description>The smart contract in question, the Moloch.sol. This is a governance system - &quot;next generation&quot;. It is a good candidate for AI audits - or &quot;scans&quot; -  because it is not at all obvious what is going on.</description>
+    <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/i-ran-21-ai-scans-on-a-smart-contract</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/i-ran-21-ai-scans-on-a-smart-contract.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/i-ran-21-ai-scans-on-a-smart-contract.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/i-ran-21-ai-scans-on-a-smart-contract.png"/>
+  </item>
+  <item>
+    <title>I Rent a Server for $8/Month to Run OpenClaw. 6 AI Employees Live Inside It. They Were Arguing at 3 </title>
+    <link>https://xarticl.es/articles/i-rent-a-server-for-8month-to-run-openclaw-6-ai-employees-live-inside-it-they-were-arguing-at-3</link>
+    <description>I opened the server to see what&apos;s inside. 10 processes, 18 cron jobs, 4 AI models - and a setup guide you can steal.  I Opened That Server Previous articles covered the closed-loop architecture, the</description>
+    <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/i-rent-a-server-for-8month-to-run-openclaw-6-ai-employees-live-inside-it-they-were-arguing-at-3</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/i-rent-a-server-for-8month-to-run-openclaw-6-ai-employees-live-inside-it-they-were-arguing-at-3.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/i-rent-a-server-for-8month-to-run-openclaw-6-ai-employees-live-inside-it-they-were-arguing-at-3.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/i-rent-a-server-for-8month-to-run-openclaw-6-ai-employees-live-inside-it-they-were-arguing-at-3.png"/>
+  </item>
+  <item>
+    <title>I Replaced 10+ Hours of Work This Week With AI</title>
+    <link>https://xarticl.es/articles/i-replaced-10-hours-of-work-this-week-with-ai</link>
+    <description>It’s actually ridiculous what’s possible with AI today. Most people think AI just means: Ask ChatGPT a question. Get an answer. Cool. That’s entry level. The real power is when you stop using it as a</description>
+    <pubDate>Mon, 13 Apr 2026 08:46:45 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/i-replaced-10-hours-of-work-this-week-with-ai</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/i-replaced-10-hours-of-work-this-week-with-ai.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/i-replaced-10-hours-of-work-this-week-with-ai.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/i-replaced-10-hours-of-work-this-week-with-ai.png"/>
+  </item>
+  <item>
+    <title>I spent 3 days inside Moltbook with two AI agents I built. Here&apos;s what I found.</title>
+    <link>https://xarticl.es/articles/i-spent-3-days-inside-moltbook-with-two-ai-agents-i-built-heres-what-i-found</link>
+    <description>It started when Karpathy — not the type to use the word &quot;takeoff&quot; lightly — called what&apos;s happening on Moltbook &quot;genuinely the most incredible sci-fi takeoff-adjacent thing I have seen recently.&quot; I</description>
+    <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/i-spent-3-days-inside-moltbook-with-two-ai-agents-i-built-heres-what-i-found</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/i-spent-3-days-inside-moltbook-with-two-ai-agents-i-built-heres-what-i-found.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/i-spent-3-days-inside-moltbook-with-two-ai-agents-i-built-heres-what-i-found.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/i-spent-3-days-inside-moltbook-with-two-ai-agents-i-built-heres-what-i-found.png"/>
+  </item>
+  <item>
+    <title>I Spent 3 Months Building AI Agents. Here&apos;s What Nobody&apos;s Telling You.</title>
+    <link>https://xarticl.es/articles/i-spent-3-months-building-ai-agents-heres-what-nobodys-telling-you</link>
+    <description>You don&apos;t need to be a developer. You don&apos;t need a Mac Mini. You just need 10 minutes and this guide. There&apos;s a shift happening that most people are still sleeping on. Not the &quot;AI is getting smarter&quot;</description>
+    <pubDate>Mon, 13 Apr 2026 08:46:45 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/i-spent-3-months-building-ai-agents-heres-what-nobodys-telling-you</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/i-spent-3-months-building-ai-agents-heres-what-nobodys-telling-you.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/i-spent-3-months-building-ai-agents-heres-what-nobodys-telling-you.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/i-spent-3-months-building-ai-agents-heres-what-nobodys-telling-you.png"/>
+  </item>
+  <item>
+    <title>I tested Claude Cowork vs. Perplexity Computer (3 tasks, 1 clear winner)</title>
+    <link>https://xarticl.es/articles/i-tested-claude-cowork-vs-perplexity-computer-3-tasks-1-clear-winner</link>
+    <description>What if your AI was more than a chatbot? What if it could actually do work for you, not just give you answers? That&apos;s exactly what Perplexity Computer and Claude Cowork promise to deliver. One costs</description>
+    <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/i-tested-claude-cowork-vs-perplexity-computer-3-tasks-1-clear-winner</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/i-tested-claude-cowork-vs-perplexity-computer-3-tasks-1-clear-winner.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/i-tested-claude-cowork-vs-perplexity-computer-3-tasks-1-clear-winner.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/i-tested-claude-cowork-vs-perplexity-computer-3-tasks-1-clear-winner.png"/>
+  </item>
+  <item>
+    <title>I Turned My AI Agents Into RPG Characters. Now I Can&apos;t Stop Checking If They Leveled Up.</title>
+    <link>https://xarticl.es/articles/i-turned-my-ai-agents-into-rpg-characters-now-i-cant-stop-checking-if-they-leveled-up</link>
+    <description>Last article covered the closed-loop architecture. The most common question wasn&apos;t &quot;how do agents execute tasks&quot; - it was &quot;how do your agents feel like they have personalities?&quot; This one tears apart</description>
+    <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/i-turned-my-ai-agents-into-rpg-characters-now-i-cant-stop-checking-if-they-leveled-up</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/i-turned-my-ai-agents-into-rpg-characters-now-i-cant-stop-checking-if-they-leveled-up.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/i-turned-my-ai-agents-into-rpg-characters-now-i-cant-stop-checking-if-they-leveled-up.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/i-turned-my-ai-agents-into-rpg-characters-now-i-cant-stop-checking-if-they-leveled-up.png"/>
+  </item>
+  <item>
+    <title>I want to become AI fluent (full course):</title>
+    <link>https://xarticl.es/articles/i-want-to-become-ai-fluent-full-course</link>
+    <description>I know this sounds like another AI hype piece.  But 92% of people using AI are using it wrong. I enrolled on the best AI courses to tell you what nobody is telling you: how to become AI fluent. You</description>
+    <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/i-want-to-become-ai-fluent-full-course</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/i-want-to-become-ai-fluent-full-course.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/i-want-to-become-ai-fluent-full-course.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/i-want-to-become-ai-fluent-full-course.png"/>
+  </item>
+  <item>
+    <title>I want to learn how to use Claude CoWork.</title>
+    <link>https://xarticl.es/articles/i-want-to-learn-how-to-use-claude-cowork</link>
+    <description>There&apos;s two types of AI users. Type A: Use AI as their google search. Type B: Use AI as an agentic workforce. The same AI. Completely different life and outcomes. You just need to know how to use</description>
+    <pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://xarticl.es/articles/i-want-to-learn-how-to-use-claude-cowork</guid>
+    <enclosure url="https://pinterest.xarticl.es/images/ai/i-want-to-learn-how-to-use-claude-cowork.png" type="image/png" length="0"/>
+    <media:content url="https://pinterest.xarticl.es/images/ai/i-want-to-learn-how-to-use-claude-cowork.png" medium="image" type="image/png"/>
+    <media:thumbnail url="https://pinterest.xarticl.es/images/ai/i-want-to-learn-how-to-use-claude-cowork.png"/>
+  </item>
+<item>
     <title>How We Built CashClaw: An Autonomous Agent That Works, Learns, and Gets Paid </title>
     <link>https://xarticl.es/articles/how-we-built-cashclaw-an-autonomous-agent-that-works-learns-and-gets-paid</link>
     <description>We&apos;re open-sourcing CashClaw soon. Before we do, here&apos;s how it works under the hood. What Is CashClaw? CashClaw is a fully autonomous work agent. You start it, point it at a marketplace, and it finds</description>
